@@ -29,9 +29,9 @@
         <framework src="OpenGLES.framework" />
         <framework src="QuartzCore.framework" />
         <framework src="SystemConfiguration.framework" />
-        <framework src="GoogleMapsM4B.framework" custom="true"/>
+        <framework src="GoogleMaps.framework" custom="true"/>
         
-        <resource-file src="GoogleMapsM4B.framework/Versions/A/Resources/GoogleMaps.bundle"/>
+        <resource-file src="GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle"/>
         
     </platform>
 </plugin>
