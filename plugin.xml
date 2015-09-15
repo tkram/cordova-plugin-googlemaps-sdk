@@ -29,6 +29,7 @@
         <framework src="OpenGLES.framework" />
         <framework src="QuartzCore.framework" />
         <framework src="SystemConfiguration.framework" />
+        <framework src="Security.framework" />
         <framework src="GoogleMapsM4B.framework" custom="true"/>
         
         <resource-file src="GoogleMapsM4B.framework/Versions/A/Resources/GoogleMaps.bundle"/>
