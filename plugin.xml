@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <plugin id="com.googlemaps.ios" version="1.10.2" xmlns="http://apache.org/cordova/ns/plugins/1.0">
-    <name>Google Map iOS SDK for Cordova</name>
+    <name>Google Map 4 Work iOS SDK for Cordova</name>
     
     <engines>
       <engine name="cordova" version=">=3.0.0" />
@@ -10,7 +10,7 @@
     <platform name="ios">
     
         <info>
-        Google Maps SDK for iOS : v1.10.2
+        Google Maps 4 Work SDK for iOS : v1.10.2
         </info>
       
         <!-- system frameworks -->
@@ -29,9 +29,9 @@
         <framework src="OpenGLES.framework" />
         <framework src="QuartzCore.framework" />
         <framework src="SystemConfiguration.framework" />
-        <framework src="GoogleMaps.framework" custom="true"/>
+        <framework src="GoogleMapsM4B.framework" custom="true"/>
         
-        <resource-file src="GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle"/>
+        <resource-file src="GoogleMapsM4B.framework/Versions/A/Resources/GoogleMaps.bundle"/>
         
     </platform>
 </plugin>
