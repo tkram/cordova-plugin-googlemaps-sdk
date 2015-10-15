@@ -1,4 +1,4 @@
-googlemaps-ios-sdk-for-phonegap
+GoogleMaps for iOS SDK (Cordova)
 ===============================
 This plugin just installs Google Maps SDK for iOS to your project.
 
