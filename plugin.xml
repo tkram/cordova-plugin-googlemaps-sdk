@@ -32,7 +32,7 @@
         <framework src="Security.framework" />
         <framework src="GoogleMaps.framework" custom="true"/>
         
-        <resource-file src="GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle"/>
+        <resource-file src="GoogleMaps.framework/Resources/GoogleMaps.bundle"/>
         
     </platform>
 </plugin>
